@@ -67,10 +67,6 @@ img{
   top:16px;
 }
 
-.skip-link:focus{
-  top:16px;
-}
-
 .site-header{
   position:sticky;
   top:0;
